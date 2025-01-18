@@ -1,0 +1,4 @@
+{
+  "httpProxy": "http://example.com:9955",
+  "httpsProxy": "http://example.com:9955"
+}

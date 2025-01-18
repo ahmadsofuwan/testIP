@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "global-agent": "^3.0.0",
     "https": "^1.0.0"
   }
 }
